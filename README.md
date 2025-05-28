@@ -23,16 +23,26 @@ If the puzzle consists of pebbles along the bottom row, the Legendre Symbol can 
 
 After starting, two coprime positive integers should be specified. These will be the dimensions of the outer billiard. 
 Then you can specify whether it should be a puzzle with pebbles only on the bottom row (to calculate the Legendre symbol based on the number of pebbles in the solution).
+
 The controls are then as follows:
+
 Clicking on the blue square starts the self-solver (repeated clicks trigger the next steps). This is the simplest and
 recommended use.
+
 Left-click to place red tiles on the dark squares.
+
 Clicking on the green square checks whether the configuration is a solution.
+
 Clicking on the yellow square starts and pauses the ball.
+
 Clicking on the red square fast-forwards or resets the trajectory.
+
 Left-clicking directly under the light squares of the last line sets blue "paint" and colors the trajectory when hitting this point.
+
 Right-click to mark dark squares (with white circles).
+
 Pressing the space bar creates a random new puzzle.
+
 Press "s" to set a puzzle yourself (it is held by pressing again).
 
 ## Thesis
