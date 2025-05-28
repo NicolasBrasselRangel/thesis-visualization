@@ -17,7 +17,7 @@ If the puzzle consists of pebbles along the bottom row, the Legendre Symbol can 
 
 1. Copy the code (`bachelors-thesis.py`)
 2. Install Python and Pygame (`pip install pygame`)
-3. Run
+3. Run (`python bachelors-thesis.py`)
 
 ## Tutorial
 
