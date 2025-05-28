@@ -26,24 +26,24 @@ Then you can specify whether it should be a puzzle with pebbles only on the bott
 
 The controls are then as follows:
 
-Clicking on the blue square starts the self-solver (repeated clicks trigger the next steps). This is the simplest and
+- Clicking on the blue square starts the self-solver (repeated clicks trigger the next steps). This is the simplest and
 recommended use.
 
-Left-click to place red tiles on the dark squares.
+- Left-click to place red tiles on the dark squares.
 
-Clicking on the green square checks whether the configuration is a solution.
+- Clicking on the green square checks whether the configuration is a solution.
 
-Clicking on the yellow square starts and pauses the ball.
+- Clicking on the yellow square starts and pauses the ball.
 
-Clicking on the red square fast-forwards or resets the trajectory.
+- Clicking on the red square fast-forwards or resets the trajectory.
 
-Left-clicking directly under the light squares of the last line sets blue "paint" and colors the trajectory when hitting this point.
+- Left-clicking directly under the light squares of the last line sets blue "paint" and colors the trajectory when hitting this point.
 
-Right-click to mark dark squares (with white circles).
+- Right-click to mark dark squares (with white circles).
 
-Pressing the space bar creates a random new puzzle.
+- Pressing the space bar creates a random new puzzle.
 
-Press "s" to set a puzzle yourself (it is held by pressing again).
+- Press "s" to set a puzzle yourself (it is held by pressing again).
 
 ## Thesis
 
